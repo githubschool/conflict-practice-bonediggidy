@@ -6,7 +6,10 @@
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
-This repository is also being used as a part of GitHub training, to practice Git and GitHub.
+ readme-update
+This repository also has some intential in merge conflicts for practice. 
+This repository has some baked up conflicts for practice. This repository is also being used as a part of GitHub training, to practice Git and GitHub.
+master
 
 Please feel free to use this in your classrooms,
 make video/picture/text adaptations,
